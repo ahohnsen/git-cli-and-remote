@@ -12,3 +12,6 @@
 - `git clone <ssh link>`
 
 ## Git Branches & PRs
+
+- `git switch -c <branch-name>`
+- `git switch <branch-name>`

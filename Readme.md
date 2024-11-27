@@ -15,3 +15,6 @@
 
 - `git switch -c <branch-name>`
 - `git switch <branch-name>`
+- `git pull`
+- `git branch -d <branch-name>`
+- `git branch`
